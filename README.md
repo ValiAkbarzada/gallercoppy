@@ -1,0 +1,2 @@
+# gallercoppy
+html,css,responsive
